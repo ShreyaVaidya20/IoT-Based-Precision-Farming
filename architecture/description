@@ -1,2 +1,6 @@
 
-The flowchart illustrates the overall workflow of the Precision Farming system. The process begins with the initialization of the ESP32 microcontroller and all connected sensors. The system then reads environmental parameters such as temperature, humidity, soil moisture, and soil nutrient levels (Nitrogen, Phosphorus, and Potassium). After collecting the sensor data, the ESP32 establishes a Wi-Fi connection and uploads the readings to Firebase Realtime Database. The stored data is then retrieved and displayed on a web dashboard, enabling farmers to remotely monitor field conditions in real time. This continuous monitoring process helps improve irrigation planning, nutrient management, and overall crop productivity through data-driven decision-making.
+The flowchart illustrates the overall workflow of the Precision Farming system. The process begins with the initialization of the ESP32 microcontroller and all 
+connected sensors. The system then reads environmental parameters such as temperature, humidity, soil moisture, and soil nutrient levels (Nitrogen, Phosphorus, 
+and Potassium). After collecting the sensor data, the ESP32 establishes a Wi-Fi connection and uploads the readings to Firebase Realtime Database. The stored data 
+is then retrieved and displayed on a web dashboard, enabling farmers to remotely monitor field conditions in real time. This continuous monitoring process helps 
+improve irrigation planning, nutrient management, and overall crop productivity through data-driven decision-making.
